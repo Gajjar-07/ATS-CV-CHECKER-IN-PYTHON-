@@ -1,4 +1,4 @@
-import docx
+from docx import Document
 import streamlit as st
 import re
 from collections import Counter
